@@ -15,7 +15,7 @@ A fixed single-product price keeps the buying decision simple while signaling cl
 ## File Upload Checklist (Customer Bundle Only)
 - `start_here.md`
 - `scorecard.md`
-- `playbook_v3.2.md`
+- `playbook_v3.1.md`
 - `revenue_command_center.csv`
 - `launch_cohort_tracker.csv`
 - `activation_sequence_templates.md`

@@ -10,7 +10,7 @@ My stated launch goal was specific: finish inside the Top 5 and produce at least
 
 The biggest pre-launch risk was not competition. It was comprehension. People understood that incident reviews were painful, but they did not always understand my angle in five seconds. My earlier drafts sounded like generic "AI productivity" noise. If the page felt vague, I knew I would get polite support from friends but low-quality traffic from everyone else.
 
-I launched on Tuesday, January 21, 2026. I chose Tuesday because it offered strong community activity and because my best support pockets were split across US morning and Europe afternoon. I expected a harder board than Friday, but I wanted higher-quality discussion and faster feedback loops from technical makers. I also had enough responders to support a full-day cadence, which mattered more to me than trying to pick a softer lane.
+I launched on Tuesday, January 20, 2026. I chose Tuesday because it offered strong community activity and because my best support pockets were split across US morning and Europe afternoon. I expected a harder board than Friday, but I wanted higher-quality discussion and faster feedback loops from technical makers. I also had enough responders to support a full-day cadence, which mattered more to me than trying to pick a softer lane.
 
 I entered launch day with a written operations plan, a segmented outreach list, and a clear fallback sequence if we stalled at midday. I did not feel relaxed. I felt prepared enough to avoid preventable errors, but exposed to the same uncertainty every founder faces once the page is public and the rankings start moving.
 

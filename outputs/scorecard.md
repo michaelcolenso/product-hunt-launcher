@@ -594,7 +594,7 @@ Why this weighting changed:
 - The middle three categories remain balanced because page quality, activation execution, and positioning each influence conversion during different points in the same 24-hour window.
 - Retention Infrastructure remains meaningful but lower because this scorecard is a pre-launch readiness diagnostic, not a post-launch lifecycle audit.
 
-## Score Tier: Not Ready - Revenue Risk
+## Score Tier: Not Ready - Stop
 **Range**: 0-49
 **Headline**: You are exposed to multiple preventable leaks from traffic to revenue.
 
@@ -604,7 +604,7 @@ Why this weighting changed:
 
 **Your Next Action**: Delay launch by 2-4 weeks and run a repair sprint on the single lowest category until it reaches at least 60% of raw max, with named owners and date-bound deliverables.
 
-## Score Tier: Caution - Launchable with Revenue Gaps
+## Score Tier: Caution - Specific Gaps
 **Range**: 50-69
 **Headline**: Foundation is viable, but one or two weaknesses can block monetization.
 
@@ -614,7 +614,7 @@ Why this weighting changed:
 
 **Your Next Action**: Run a 7-10 day sprint on the lowest category plus one adjacent dependency, then re-score before launch and require both categories to clear 60% raw max.
 
-## Score Tier: Ready - Execute Revenue SOP
+## Score Tier: Ready - Execute the Plan
 **Range**: 70-84
 **Headline**: You are launch-capable with sufficient structure to convert attention.
 
@@ -624,7 +624,7 @@ Why this weighting changed:
 
 **Your Next Action**: Keep launch date, complete a 72-hour hardening pass for the lowest-scoring category, and pre-assign one contingency trigger tied to a specific metric threshold.
 
-## Score Tier: Strong - Compound Gains
+## Score Tier: Strong - Go for Top 3
 **Range**: 85-100
 **Headline**: You are positioned for high-quality launch execution and post-launch compounding.
 
@@ -650,7 +650,7 @@ After calculating your weighted score, complete this output before final launch 
 2. **Primary Constraint**: name one blocker in activation or paid conversion.
 3. **Owner Assignment**: assign one owner to resolve the blocker with a deadline.
 4. **Metric Target**: set one 7-day target for `activation_rate` or `paid_conversion_rate`.
-5. **Protocol Choice**: select one rescue protocol from `playbook_v3.2.md` to preload.
+5. **Protocol Choice**: select one rescue protocol from `playbook_v3.1.md` to preload.
 
 If items 2-5 are incomplete, treat the launch as not approved.
 
@@ -674,11 +674,11 @@ Low scores here often show up as an uneven launch graph: initial excitement, the
 A practical benchmark is coverage density: if fewer than two owners are active across each 4-hour block, response latency usually increases and comment quality declines by late day. Another benchmark is personalization depth: if less than 70% of your outreach list has recipient-specific context, response rates usually flatten after the initial wave. Launch-day consequence is measurable: longer median reply times, fewer second-order shares, and lower conversion from comments to site visits. To raise this category quickly, lock one command channel, define a single decision owner with fallback, and run a 60-minute rehearsal that stress-tests DM sends, comment response speed, and escalation handoffs before launch day.
 
 ### Timing & Positioning
-Timing & Positioning measures whether you are launching on the right day with a message that fits current community priorities. It combines calendar analysis, category selection, competitor intelligence, why-now clarity, and contingency planning. This category predicts relevance and comparability: will visitors understand why this product matters now, and why it is meaningfully different from alternatives? High-scoring teams choose timing deliberately, can explain category fit with evidence, and have prepared responses for unexpected competitive pressure. They avoid launching into crowded windows blindly and reduce mismatch between who sees the product and who benefits from it.
+Timing & Positioning measures whether you are launching on the right day with a message that fits community priorities. It combines calendar analysis, category selection, competitor intelligence, why-now clarity, and contingency planning. This category predicts relevance and comparability: will visitors understand why this product matters now and differs from alternatives? High-scoring teams choose timing deliberately, can explain category fit with evidence, and have prepared responses for competitive pressure. They avoid launching into crowded windows and reduce mismatch between who sees the product and who benefits from it.
 
 A weak score in this category often causes hidden friction even if distribution and assets are strong. You might attract the wrong audience, appear generic next to similar launches, or miss the best windows for your user base. Launch-day consequences include lower conversion from comparable traffic levels and faster ranking decay when stronger-positioned products compete. Improvements are measurable: analyze recent boards, benchmark competitor launches, test your one-sentence why-now statement with target users, and create at least one contingency play for heavy competition. Timing and positioning do not replace product quality, but they determine whether quality is interpreted quickly in a crowded context.
 
-Use concrete thresholds to judge readiness. If your why-now statement cannot be repeated accurately by at least 8 of 10 target testers, positioning risk is still high. If category choice is based on intuition without competitor benchmarking from the last 6 weeks, traffic relevance risk is high. If you lack a contingency trigger for a crowded board, operational risk is high. Each of these risks has direct launch-day impact: weaker CTR from feed impressions, lower comment intent quality, and reduced recovery when rankings move quickly. To improve this category, write a one-page timing brief with chosen date, rejected dates, top three competing launches in your window, and a fallback message pack you can deploy within 15 minutes.
+Use concrete thresholds to judge readiness. If your why-now statement cannot be repeated accurately by at least 8 of 10 target testers, positioning risk is still high. If category choice is based on intuition without competitor benchmarking from the last 6 weeks, traffic relevance risk is high. If you lack a contingency trigger for a crowded board, operational risk is high. These risks have direct launch-day impact: weaker CTR from feed impressions, lower comment intent quality, and reduced recovery when rankings move quickly. To improve this category, write a one-page timing brief with chosen date, rejected dates, competing launches in your window, and a fallback message pack you can deploy quickly.
 
 ### Retention Infrastructure
 Retention Infrastructure measures whether your product and follow-up systems can capture long-term value from launch-day attention. It covers time-to-value, lifecycle email readiness, offer-code reliability, end-to-end flow testing, support coverage, event tracking, and short-cycle retention experimentation. This category predicts whether launch success translates into usage and revenue instead of a one-day spike. High-scoring teams can onboard users quickly, observe where drop-off happens, respond to blockers in real time, and run immediate improvements for the launch cohort. They treat launch day as acquisition plus activation, not acquisition alone.

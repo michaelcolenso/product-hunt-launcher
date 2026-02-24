@@ -339,16 +339,16 @@ Move from passive reactions to active dialogue. Better comments improve credibil
 ### Scenario C: A similar competitor launched the same day and is outranking you.
 
 Diagnosis:
-You are being evaluated in a compressed side-by-side comparison, and your launch narrative is likely less specific at first glance. When two similar products appear on the board, visitors decide quickly based on who the product is for, what workflow it improves, and what proof appears first. If your listing, maker comment, and outreach messages are not tightly aligned, attention fragments and the competitor captures the cleaner story. This is usually a positioning-and-evidence problem more than a pure traffic problem.
+You are in a side-by-side comparison and losing the first-glance narrative. Visitors are deciding quickly on audience fit, workflow clarity, and visible proof. If your listing, maker comment, and outreach are not aligned around one clear use case, the competitor appears easier to understand. This is usually a positioning and evidence gap, not just a volume gap.
 
 Priority actions:
-1. Re-anchor your message to one explicit user segment and one concrete job-to-be-done. Update your next public post and maker comment replies with the same phrasing so differentiation is repeated, not improvised.
-2. Move proof above claims. Publish one short evidence bundle: a usage result, a customer quote, and one implementation detail that demonstrates why your workflow is materially different.
-3. Re-segment outreach immediately. Prioritize contacts who match your strongest-fit audience and ask for feedback tied to that specific use case, rather than broad visibility asks.
-4. Run differentiation-first comment operations. For each new question, explain who benefits most, where your approach is stronger, and where your product is not the best fit yet.
+1. Re-anchor all live messaging to one explicit user segment and one job-to-be-done. Repeat the same wording in your next post and every maker reply.
+2. Publish proof before claims: one usage result, one customer quote, and one implementation detail that shows why your workflow is different.
+3. Re-segment outreach to strongest-fit contacts. Ask for feedback on that exact use case instead of broad launch support.
+4. In comments, answer with differentiation context: who benefits most, where your approach is stronger, and where it is not the best fit yet.
 
 Execution target:
-Within the next 2-3 hours, increase clarity-weighted engagement: more comments that reference your specific use case, higher click-to-signup quality, and fewer generic reactions. You may not overtake immediately, but you should improve fit quality and downstream activation.
+In the next 2-3 hours, improve engagement: more comments tied to your core use case, better-fit signups, and fewer generic reactions. You may not overtake immediately, but stronger fit should improve activation.
 
 <!-- EDITOR'S NOTE: Expanded Scenario C to 150-200 words with diagnosis depth and priority-ordered differentiation actions. -->
 

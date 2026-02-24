@@ -20,7 +20,7 @@ Most launch guides end at visibility. This product starts there and continues th
 
 Position the system as three linked layers:
 1. `scorecard.md` diagnoses readiness and identifies the highest business-risk gap.
-2. `playbook_v3.2.md` gives operational checklists and owner-based SOPs.
+2. `playbook_v3.1.md` gives operational checklists and owner-based SOPs.
 3. Implementation assets (`revenue_command_center.csv`, `launch_cohort_tracker.csv`, and lifecycle templates) convert advice into measurable execution.
 
 The value is not more launch ideas. The value is fewer revenue leaks after launch day.

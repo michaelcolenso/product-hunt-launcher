@@ -6,7 +6,7 @@ This bundle has three core components that work together:
 
 1. `scorecard.md` is the diagnostic layer. It measures readiness across the categories that usually decide whether launch traffic becomes activation and paid conversion. Its job is to tell you where your real risk is right now.
 2. `teardown.md` is the interpretation layer. It shows how launch decisions and tradeoffs play out in practice, including what was missed, what was recovered, and what drove downstream results.
-3. `playbook_v3.2.md` is the execution layer. It contains the SOPs, checklists, and templates you use to close the specific gaps the Scorecard exposes and the Teardown clarifies.
+3. `playbook_v3.1.md` is the execution layer. It contains the SOPs, checklists, and templates you use to close the specific gaps the Scorecard exposes and the Teardown clarifies.
 
 The relationship is simple: Scorecard identifies your priority, Teardown explains the pattern behind that priority, Playbook gives you the exact operating actions to execute.
 
@@ -14,7 +14,7 @@ Follow this sequence exactly:
 
 1. Scorecard first. Complete `scorecard.md` in one sitting and write down your total score plus your two lowest categories.
 2. Teardown second. Read `teardown.md` with your low-score categories in front of you and note where the same failure patterns appear.
-3. Playbook third, as reference. Open `playbook_v3.2.md` and go directly to the modules that address your lowest categories; do not try to run every section at once.
+3. Playbook third, as reference. Open `playbook_v3.1.md` and go directly to the modules that address your lowest categories; do not try to run every section at once.
 
 Supporting files (`revenue_command_center.csv`, `launch_cohort_tracker.csv`, templates, and backlog sheets) are implementation tools. Use them only after the three-step sequence above, so your execution is tied to diagnosed risk instead of random activity.
 

@@ -13,7 +13,7 @@
 3. `teardown.md`
    - Composite launch case study with launch-day decisions and Day 7/30 revenue follow-through.
 
-4. `playbook_v3.2.md`
+4. `playbook_v3.1.md`
    - Operating manual with countdown, launch-day cadence, and post-launch revenue SOP.
 
 5. `quick_reference_card.md`
@@ -40,7 +40,7 @@
 
 1. `start_here.md`
 2. `scorecard.md`
-3. `playbook_v3.2.md`
+3. `playbook_v3.1.md`
 4. `revenue_command_center.csv`
 5. `launch_cohort_tracker.csv`
 6. `activation_sequence_templates.md`
