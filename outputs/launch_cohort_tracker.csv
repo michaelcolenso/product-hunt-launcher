@@ -1,0 +1,4 @@
+user_id,signup_date,segment,activation_milestone,activated_at,trial_started_at,paid_at,churn_risk,owner
+u_1001,2026-02-18,solo_founder,first_report_published,2026-02-18T09:42:00Z,2026-02-18T09:46:00Z,2026-02-20T10:11:00Z,low,alex
+u_1002,2026-02-18,engineering_manager,team_invite_sent,2026-02-18T13:08:00Z,2026-02-18T13:20:00Z,,medium,sam
+u_1003,2026-02-19,product_ops,integration_connected,,2026-02-19T16:33:00Z,,high,ria

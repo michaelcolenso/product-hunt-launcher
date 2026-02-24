@@ -1,0 +1,85 @@
+The PH Top 5 Playbook: A 30-Day Launch System for Indie Hackers
+Welcome to the Playbook. This isn't a theory document; it's an execution engine. If you follow this timeline, complete the checklists, and use the swipe files, you will mathematically maximize your chances of hitting the Top 5 on Product Hunt and driving hundreds of highly qualified leads to your SaaS.
+MODULE 1: The 30-Day Countdown Timeline
+Don't launch tomorrow. Give yourself a 30-day runway to build momentum.
+Days 30 to 15: Foundation
+ * [ ] Finalize the Core Loop: Ensure your onboarding is frictionless. PH traffic bounces fast if they can't figure out the app in 30 seconds.
+ * [ ] Create a "Launch Coming Soon" teaser: Add a banner to your current website.
+ * [ ] Build a Launch List: Start collecting emails specifically for the launch (e.g., "Get 50% off when we launch on Product Hunt").
+ * [ ] Identify a Hunter: Find someone who has hunted similar products in your niche. (Use the swipe file in Module 3). Note: Hunting yourself is fine now, but a top Hunter adds social proof.
+Days 14 to 7: Asset Creation
+ * [ ] Design the Thumbnail (240x240px): Must be a GIF. It needs to stand out. Use high contrast.
+ * [ ] Design the Gallery (1270x760px): 3-5 images. The first image must explain the value proposition in under 5 words.
+ * [ ] Record the Demo Video (Under 2 minutes): Keep it punchy. Show the "Aha!" moment in the first 15 seconds. Upload to YouTube.
+ * [ ] Write the Tagline (Under 60 characters): Benefit-driven, not feature-driven.
+ * [ ] Draft the Maker Comment: (Use the swipe file in Module 3).
+Days 6 to 1: The Final Polish
+ * [ ] Schedule the Launch: Schedule it for 12:01 AM Pacific Time (PST). This gives you the full 24 hours to collect upvotes.
+ * [ ] Draft Launch Emails: Prepare your newsletter blast for Day 1.
+ * [ ] Warm up your network: DM 20-30 friends/creators. Let them know you are launching on Tuesday (Tuesday/Wednesday are the highest traffic days, but hardest to rank. Thursday/Friday have lower traffic but easier competition).
+MODULE 2: The Asset Optimization Checklist
+Before you hit schedule, verify every asset against this checklist.
+1. The Tagline (The most important copy)
+ * [ ] Is it under 60 characters?
+ * [ ] Does it state exactly what it does? (Bad: "Revolutionize your workflow". Good: "Automate your freelance tax calculations").
+ * [ ] Does it exclude buzzwords? (Remove AI, Web3, Synergy unless absolutely critical).
+2. The Thumbnail (The hook)
+ * [ ] Is it an animated GIF? (Increases CTR by 20%+).
+ * [ ] Is it legible when scaled down to 40x40 pixels?
+ * [ ] Does it contrast well with a white background?
+3. The Gallery (The pitch)
+ * [ ] Image 1: The UI Hero Shot + Big Value Prop.
+ * [ ] Image 2: The main feature/solution.
+ * [ ] Image 3: Social proof or integrations.
+ * [ ] Image 4: Pricing / Special PH Discount code.
+MODULE 3: The Copy-Paste Swipe Files
+Swipe 1: Hunter Outreach Email
+Send this to 3 potential hunters on Day 20. Keep it short. They are busy.
+Subject: Seeking a Hunter for [Product Name] - [Short 3 word description]
+Body:
+Hi [Hunter Name],
+I love the products you hunt, especially [Mention a recent product they hunted].
+I’m launching [Product Name] in a few weeks. It’s a [One sentence description of what it does and who it's for].
+Given your interest in [Niche/Industry], I think your audience would love it. Would you be open to hunting it? I have all the assets, maker comment, and copy ready to go—you'd just need to click submit.
+Here is a 30-second loom demo: [Link]
+Let me know if you're open to it!
+Best,
+[Your Name]
+Swipe 2: The Maker Comment
+This goes live the second your product is hunted. It sets the tone.
+Body:
+Hi Product Hunt! 👋 I'm [Your Name], the maker of [Product Name].
+The Problem: I built this because I was frustrated by [State the core pain point]. I was spending hours doing [X] when it should take seconds.
+The Solution: [Product Name] solves this by:
+ * [Key Benefit 1]
+ * [Key Benefit 2]
+ * [Key Benefit 3]
+Special Offer: To celebrate our launch, I'm offering the PH community [X]% off for the next 48 hours using the code PHLAUNCH.
+I’ll be here all day answering questions. I would love your feedback on the onboarding flow and our pricing model! Let me know what you think below. 👇
+Swipe 3: The Launch Day Newsletter Blast
+Send to your existing list at 8:00 AM PST on Launch Day.
+Subject: We are live on Product Hunt! 🚀 (And a gift for you)
+Body:
+Hi everyone,
+Big news today—[Product Name] is officially live on Product Hunt!
+We've spent the last [Time period] building this to help you [Core benefit].
+If you have a moment today, I would massively appreciate your support. You can check out our launch page, watch the new demo video, and join the discussion here:
+👉 [Link to PH Post]
+(Note: Product Hunt asks that we don't explicitly ask for upvotes, but we would love your honest feedback and comments on the page!)
+Thanks for being part of the journey.
+-[Your Name]
+MODULE 4: Launch Day Hour-by-Hour Playbook
+ * 12:01 AM PST: Launch goes live. Post your Maker Comment immediately.
+ * 12:15 AM PST: Send your "Live" tweet/X thread. Tag your hunter.
+ * 01:00 AM PST: Send direct DMs to your inner circle (close friends, mentors) asking for early feedback and comments to build initial momentum.
+ * 08:00 AM PST: Send your email newsletter blast to your existing audience.
+ * 10:00 AM PST: Post in relevant Slack/Discord communities (only where you are an active member, using the "Feedback" angle, not the "Vote for me" angle).
+ * 12:00 PM PST: The Mid-Day Push. Reply to every single comment on your PH page. Deep, thoughtful replies boost the algorithm.
+ * 04:00 PM PST: The Final Push. Update Twitter/LinkedIn with your current ranking ("We are #3 right now! Help us get to #1").
+ * 11:59 PM PST: The day closes. Take a screenshot.
+MODULE 5: Post-Launch Capitalization
+Hitting top 5 is vanity. MRR is sanity.
+ * Add the Badge: Embed the "Featured on Product Hunt" badge on your website footer. It provides permanent social proof.
+ * Follow up with Leads: Anyone who commented on your launch is a warm lead. Find them on Twitter/LinkedIn, thank them for their comment, and ask if they want a personalized onboarding call.
+ * Repurpose the Content: Turn your launch statistics and journey into a "Build in Public" thread on Twitter/X and a long-form post on IndieHackers.
+End of Playbook. Now go launch.
