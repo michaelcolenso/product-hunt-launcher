@@ -1,2 +1,2 @@
-# product-hunt-launcher-
+# product-hunt-launcher
 Launch high
