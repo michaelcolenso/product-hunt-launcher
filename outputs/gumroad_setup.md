@@ -4,44 +4,52 @@
 PH Top 5 Launch Audit System
 
 ## Gumroad Listing Description (SEO-visible, under 150 words)
-Stop guessing whether your Product Hunt launch is ready. This bundle gives you a diagnostic-first system: a 40-question weighted scorecard, a full launch teardown with real decision tradeoffs, and an execution playbook mapped to your weakest readiness areas. Use it to identify your highest-risk gaps before launch day, run a tighter 24-hour launch operation, and improve conversion after the ranking window closes. Built for technical founders, indie hackers, and small product teams who want practical launch decisions instead of generic advice.
+Stop treating Product Hunt like a one-day ranking event. This bundle gives you a launch-to-revenue operating system: a weighted readiness scorecard, a full launch teardown with real decision tradeoffs, and SOPs plus trackers to improve activation and paid conversion after launch day. You get a command center CSV, cohort tracker, Day 0/1/3/7 lifecycle templates, and an offer experiment backlog so execution starts immediately. Built for technical founders and small teams who want measurable post-launch outcomes, not generic launch tips.
 
 ## Price
 $49 fixed
 
-## Pricing Rationale (No pay-what-you-want)
-A fixed price signals a defined product with clear scope and avoids decision fatigue at checkout. Pay-what-you-want tends to push buyers toward impulse pricing and can undercut perceived rigor for a diagnostic product. The value here is the system and sequencing, so consistent pricing supports trust and positioning.
+## Pricing Rationale (Single Product)
+A fixed single-product price keeps the buying decision simple while signaling clear operational scope. The value is practical execution leverage: measurable diagnostics, runbooks, templates, and tracking assets that reduce revenue leakage during Days 0-30.
 
-## File Upload Checklist
-- `scorecard.md`
-- `playbook_v3.1.md`
-- `teardown.md`
+## File Upload Checklist (Customer Bundle Only)
 - `start_here.md`
+- `scorecard.md`
+- `playbook_v3.2.md`
+- `revenue_command_center.csv`
+- `launch_cohort_tracker.csv`
+- `activation_sequence_templates.md`
+- `offer_experiment_backlog.csv`
+- `teardown.md`
 - `quick_reference_card.md`
-- `landing_page_brief.md`
-- `gumroad_setup.md`
-- `bundle_structure.md`
+- `evidence_register.md`
+
+## What Customers Can Execute in the First 7 Days
+- Diagnose readiness and isolate highest-revenue risk.
+- Establish daily metric tracking from sessions to paid users.
+- Segment launch signups by onboarding stage and owner.
+- Run Day 0/1/3/7 activation and conversion messaging.
+- Trigger rescue protocol when activation or paid conversion slips.
+- Ship one documented offer or lifecycle experiment with success metric.
 
 ## Receipt Email Copy (100-150 words)
-Subject: Your PH Top 5 Launch Audit System is ready
+Subject: Your launch-to-revenue system is ready
 
 Thanks for your purchase.
 
-Start with `start_here.md` first. It gives you the exact order to use everything and what to prioritize based on time.
+Start with `start_here.md` and complete the 30-minute first-value flow in this order:
+1) run `scorecard.md`,
+2) fill your baseline in `revenue_command_center.csv`,
+3) start Module 5 in `playbook_v3.2.md`.
 
-Recommended sequence:
-1) Run `scorecard.md` and identify your lowest category scores.
-2) Read `teardown.md` to see how launch-day decisions play out in practice.
-3) Use `playbook_v3.1.md` as your execution manual for the gaps you found.
+Then use `launch_cohort_tracker.csv` to monitor who activates, trials, and converts, and use `activation_sequence_templates.md` to run your Day 0/1/3/7 follow-up.
 
-If you are launching soon, focus on your weakest category plus one adjacent category before expanding scope.
-
-This bundle is designed to reduce preventable launch mistakes and improve post-launch follow-through.
+Your practical objective is measurable movement in activation and paid conversion, not just launch-day visibility.
 
 ## Affiliate Program
 Yes - 25%
 
-Reasoning: A 25% commission is strong enough to motivate quality creator partners without distorting the product's unit economics.
+Reasoning: A 25% commission is strong enough to motivate aligned creator partners while preserving unit economics.
 
 ## Follow-Up Product Concept
-Build a companion "Launch Day Command Center" template pack with Notion and Sheet-based tracking dashboards for ranking, outreach, and conversion events.
+Build a companion "Launch Revenue Review" mini-audit that benchmarks a founder's Day 0-30 metrics and returns prioritized intervention actions.

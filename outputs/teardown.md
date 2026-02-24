@@ -185,6 +185,47 @@ The second surprise was how sensitive activation was to onboarding friction. A s
 
 Paid conversion at seven days was solid but not extraordinary. It told me the product promise was strong, while onboarding and lifecycle messaging still had room to improve. The launch was a good business event, not an endpoint.
 
+## Section 4B - Day 7 and Day 30 Revenue Follow-Through
+
+The first seven days confirmed that launch-day visibility was only useful when paired with fast operating decisions.
+
+### Day 7 Snapshot
+
+| Metric | Day 1 | Day 7 | Decision Link |
+|---|---|---|---|
+| Activation Rate | 31.2% | 36.8% | Improved after simplifying the first-run checklist and adding one in-app prompt. |
+| Paid Conversion Rate (Activated Users) | 12.1% | 16.8% | Improved after segmenting follow-up and clarifying annual plan value for team leads. |
+| Revenue (Cumulative) | $2,140 | $5,420 | Increased after running assisted onboarding for high-intent trial users. |
+| Support First-Response Time | 42 min | 14 min | Improved after assigning one midday support owner and escalation path. |
+
+Turning points and rationale:
+- **Turning point 1**: activation stalled midday on Day 1 due to verification friction.  
+  **Decision**: shipped fallback verification and updated onboarding copy within the same day.  
+  **Metric impact**: activation_rate recovered by the next reporting block.
+- **Turning point 2**: paid intent was strong but checkout confidence was mixed by Day 3.  
+  **Decision**: replaced generic offer reminder with role-specific ROI examples.  
+  **Metric impact**: paid conversion trend stabilized through Days 4-7.
+- **Turning point 3**: support queue slowed response for enterprise-domain users.  
+  **Decision**: introduced queue ownership shifts and tagged blocker severity.  
+  **Metric impact**: lower time-to-first-response and fewer stalled trials.
+
+### Day 30 Snapshot
+
+| Metric | Day 7 | Day 30 | Decision Link |
+|---|---|---|---|
+| Paid Users (Launch Cohort) | 29 | 44 | Additional conversions came from a structured Day 8-21 reactivation sequence. |
+| MRR Added | $8,640 | $12,980 | Growth concentrated in segments with assisted onboarding and clearer team use cases. |
+| 30-Day Retention (Paid Launch Cohort) | 78% | 82% | Retention improved after adding weekly report quality checks and support follow-through. |
+| Refund Rate | 5.2% | 3.1% | Reduced by clarifying fit expectations in Day 1 and Day 3 lifecycle messaging. |
+
+What changed between Day 7 and Day 30:
+- We stopped treating all signups the same and segmented by role plus onboarding stage.
+- We ran one explicit offer experiment per week instead of changing pricing ad hoc.
+- We used channel quality, not traffic volume, to prioritize lifecycle effort.
+
+Revenue interpretation:
+The launch did not become more successful because the ranking changed. It became more successful because the team tightened activation, responded to friction quickly, and used post-launch operations to convert qualified interest into paid retention.
+
 ## Section 5 - Post-Mortem
 
 ## Post-Mortem

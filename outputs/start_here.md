@@ -1,39 +1,65 @@
 # Start Here
 
-You bought this because you do not want launch day to be a coin flip. That is the right reason. Most Product Hunt advice online tells you what to post, but not whether your current setup can support the result you want. This bundle is built to solve that gap: diagnose readiness first, then execute with precision.
+You bought this because you want launch effort to become measurable revenue, not a one-day ranking spike. This bundle is built for that outcome: diagnose readiness, execute a focused launch window, then run a post-launch revenue sprint with concrete instrumentation.
 
-You now have three core assets that work together:
+## 30-Minute First-Value Flow
 
-1. `scorecard.md` is your diagnostic layer. It measures your launch readiness across the five categories that usually decide outcomes: Audience Infrastructure, Asset Quality, Network Activation, Timing & Positioning, and Retention Infrastructure.
-2. `teardown.md` is your reality check. It shows what a full launch day looks like under pressure, including mistakes, recovery decisions, and numbers that matter after ranking.
-3. `playbook_v3.1.md` is your operating manual. It translates weak score areas into concrete actions, checklists, timing blocks, and fallback protocols.
+Complete these three steps in one sitting before you do anything else:
 
-Use them in this order every time:
+1. Run `scorecard.md` and record your overall score plus lowest category.
+2. Open `revenue_command_center.csv` and fill your baseline metrics from the latest 7 days.
+3. Open `playbook_v3.2.md` Module 5 and start the Day 0-Day 7 revenue sprint checklist.
 
-First, complete the Scorecard in one sitting. Do not overthink answers or try to "score well." Accuracy matters more than optimism.
+If you finish those steps, you will have a working operating system instead of a loose reading list.
 
-Second, read the Teardown and compare it to your own likely launch conditions. Focus on decision patterns, especially where momentum stalled and what changed it.
+## Success Definition
 
-Third, use the Playbook as a targeted reference. Go straight to the module tied to your lowest score category, assign owners, and put dates on tasks.
+Primary success is movement in activation and paid conversion for your launch cohort.
 
-What this product will do:
-- Give you a clear view of where your launch is exposed.
-- Help you prioritize the highest-leverage fixes before launch day.
-- Give you a repeatable operations system for launch-day execution.
+Use this hierarchy:
+- Tier 1: `activation_rate` improves versus your pre-launch baseline.
+- Tier 2: `paid_conversion_rate` improves for activated users.
+- Tier 3: launch cohort revenue compounds over Days 7-30.
+- Secondary: leaderboard placement and social visibility.
 
-What this product will not do:
-- Replace product-market fit.
-- Create audience trust overnight.
-- Remove uncertainty from competitive launch days.
+## What Is Included
 
-Set expectations correctly and this becomes very practical: you reduce preventable mistakes, improve launch-day quality, and increase the odds that attention turns into activation and revenue.
+1. `scorecard.md`
+   - 40-question diagnostic with weighted launch-to-revenue interpretation.
+2. `teardown.md`
+   - composite launch case with decision rationale and Day 7/30 revenue follow-through.
+3. `playbook_v3.2.md`
+   - operating procedures for countdown, launch day, and post-launch revenue execution.
+4. `quick_reference_card.md`
+   - one-page highest-leverage actions.
+5. `revenue_command_center.csv`
+   - daily metrics tracker for sessions through revenue.
+6. `launch_cohort_tracker.csv`
+   - user-level lifecycle tracking for launch cohort progress.
+7. `offer_experiment_backlog.csv`
+   - controlled offer and messaging experiment register.
+8. `activation_sequence_templates.md`
+   - Day 0/1/3/7 email and in-app message templates by segment.
+9. `evidence_register.md`
+   - claim-to-evidence map with confidence labels.
 
-Recommended usage rhythm:
-- T-minus 30 to 14 days: complete Scorecard and close top two gaps.
-- T-minus 14 to 2 days: harden assets and activation plan.
-- T-minus 1 day to launch close: run the hour-by-hour playbook and rescue protocols.
-- Post-launch week: run retention sprint and debrief.
+## Recommended Usage Rhythm
 
-If you are launching in less than two weeks, still use the same order, but compress scope to your weakest category plus one adjacent category.
+- T-minus 30 to 14 days: run Scorecard and close the two largest risks.
+- T-minus 14 to 1 day: harden assets, outreach, and launch-day operations.
+- Day 0 to Day 7: execute Module 5 SOP and track outcomes daily.
+- Day 8 to Day 30: iterate offers, fix drop-off points, and document channel ROI.
 
-Open `scorecard.md` now, answer all 40 questions, and let your actual readiness set your next move.
+## Guardrails
+
+What this product does:
+- creates decision structure for launch and revenue follow-through
+- helps you prioritize repair work by measured risk
+- gives templates and trackers so execution starts immediately
+
+What this product does not do:
+- replace product-market fit
+- remove competition variance on launch day
+- promise ranking outcomes
+
+Open `scorecard.md` now, then complete the 30-minute first-value flow before planning additional work.

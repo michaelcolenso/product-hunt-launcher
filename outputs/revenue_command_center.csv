@@ -1,0 +1,4 @@
+date,channel,sessions,signups,activated_users,paid_users,revenue,activation_rate,paid_conversion_rate,notes
+2026-02-17,email,420,88,31,6,588.00,35.23%,6.82%,Baseline week snapshot before launch push
+2026-02-18,product_hunt,1320,216,74,11,1078.00,34.26%,5.09%,Launch day
+2026-02-19,communities,510,94,39,8,784.00,41.49%,8.51%,High intent traffic from niche communities

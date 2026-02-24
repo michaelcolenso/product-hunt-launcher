@@ -1,0 +1,4 @@
+experiment_id,hypothesis,segment,offer_variant,start_date,end_date,primary_metric,result,decision
+exp_001,Short assisted onboarding call will increase paid conversion within 7 days,engineering_manager,15-minute onboarding session plus annual discount,2026-02-20,2026-02-27,paid_conversion_rate,in_progress,pending
+exp_002,Case-study proof email will increase activation for non-activated signups,solo_founder,Day-1 proof email with one-click setup video,2026-02-21,2026-02-28,activation_rate,not_started,queued
+exp_003,Role-specific pricing explainer reduces checkout abandonment,product_ops,Checkout sidebar with role-based ROI examples,2026-02-22,2026-03-01,checkout_completion_rate,not_started,queued
