@@ -1,65 +1,27 @@
 # Start Here
 
-You bought this because you want launch effort to become measurable revenue, not a one-day ranking spike. This bundle is built for that outcome: diagnose readiness, execute a focused launch window, then run a post-launch revenue sprint with concrete instrumentation.
+You made a smart purchase if your goal is clarity before launch, not more generic advice. Most Product Hunt resources tell you what worked for someone else. This system helps you determine what is weak in your own launch setup, then fix it in priority order. Use it as an operating sequence, not a document library.
 
-## 30-Minute First-Value Flow
+This bundle has three core components that work together:
 
-Complete these three steps in one sitting before you do anything else:
+1. `scorecard.md` is the diagnostic layer. It measures readiness across the categories that usually decide whether launch traffic becomes activation and paid conversion. Its job is to tell you where your real risk is right now.
+2. `teardown.md` is the interpretation layer. It shows how launch decisions and tradeoffs play out in practice, including what was missed, what was recovered, and what drove downstream results.
+3. `playbook_v3.2.md` is the execution layer. It contains the SOPs, checklists, and templates you use to close the specific gaps the Scorecard exposes and the Teardown clarifies.
 
-1. Run `scorecard.md` and record your overall score plus lowest category.
-2. Open `revenue_command_center.csv` and fill your baseline metrics from the latest 7 days.
-3. Open `playbook_v3.2.md` Module 5 and start the Day 0-Day 7 revenue sprint checklist.
+The relationship is simple: Scorecard identifies your priority, Teardown explains the pattern behind that priority, Playbook gives you the exact operating actions to execute.
 
-If you finish those steps, you will have a working operating system instead of a loose reading list.
+Follow this sequence exactly:
 
-## Success Definition
+1. Scorecard first. Complete `scorecard.md` in one sitting and write down your total score plus your two lowest categories.
+2. Teardown second. Read `teardown.md` with your low-score categories in front of you and note where the same failure patterns appear.
+3. Playbook third, as reference. Open `playbook_v3.2.md` and go directly to the modules that address your lowest categories; do not try to run every section at once.
 
-Primary success is movement in activation and paid conversion for your launch cohort.
+Supporting files (`revenue_command_center.csv`, `launch_cohort_tracker.csv`, templates, and backlog sheets) are implementation tools. Use them only after the three-step sequence above, so your execution is tied to diagnosed risk instead of random activity.
 
-Use this hierarchy:
-- Tier 1: `activation_rate` improves versus your pre-launch baseline.
-- Tier 2: `paid_conversion_rate` improves for activated users.
-- Tier 3: launch cohort revenue compounds over Days 7-30.
-- Secondary: leaderboard placement and social visibility.
+If you are pressed for time, still complete the full sequence once. Skipping Teardown usually leads to misdiagnosed fixes, and starting in Playbook usually creates busywork without meaningful metric movement.
 
-## What Is Included
+Set expectations correctly. This product will help you make better launch decisions, prioritize high-impact fixes, and run a more disciplined Day 0-30 operation. It will not create demand for a weak offer, replace customer research, or promise a Top 5 placement. Product quality, timing, market context, and competitive launches still matter.
 
-1. `scorecard.md`
-   - 40-question diagnostic with weighted launch-to-revenue interpretation.
-2. `teardown.md`
-   - composite launch case with decision rationale and Day 7/30 revenue follow-through.
-3. `playbook_v3.2.md`
-   - operating procedures for countdown, launch day, and post-launch revenue execution.
-4. `quick_reference_card.md`
-   - one-page highest-leverage actions.
-5. `revenue_command_center.csv`
-   - daily metrics tracker for sessions through revenue.
-6. `launch_cohort_tracker.csv`
-   - user-level lifecycle tracking for launch cohort progress.
-7. `offer_experiment_backlog.csv`
-   - controlled offer and messaging experiment register.
-8. `activation_sequence_templates.md`
-   - Day 0/1/3/7 email and in-app message templates by segment.
-9. `evidence_register.md`
-   - claim-to-evidence map with confidence labels.
+If you use this as intended, you should finish today with a ranked risk list, a focused execution plan, and clear metrics to track. That is the win condition for Day 1.
 
-## Recommended Usage Rhythm
-
-- T-minus 30 to 14 days: run Scorecard and close the two largest risks.
-- T-minus 14 to 1 day: harden assets, outreach, and launch-day operations.
-- Day 0 to Day 7: execute Module 5 SOP and track outcomes daily.
-- Day 8 to Day 30: iterate offers, fix drop-off points, and document channel ROI.
-
-## Guardrails
-
-What this product does:
-- creates decision structure for launch and revenue follow-through
-- helps you prioritize repair work by measured risk
-- gives templates and trackers so execution starts immediately
-
-What this product does not do:
-- replace product-market fit
-- remove competition variance on launch day
-- promise ranking outcomes
-
-Open `scorecard.md` now, then complete the 30-minute first-value flow before planning additional work.
+Open `scorecard.md` now and complete it before you read anything else.

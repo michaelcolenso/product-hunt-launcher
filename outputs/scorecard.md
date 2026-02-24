@@ -2,7 +2,7 @@
 
 Use this scorecard before you pick a launch date. Select one answer per question, total your raw points by category, then convert to the weighted launch-to-revenue score and tier guidance at the end.
 
-## Category 1: Audience Infrastructure (Raw Max 25 | Weighted Max 24)
+## Category 1: Audience Infrastructure (Raw Max 25 | Weighted Max 25)
 
 ### Q1. What is your launch list size and 30-day average open rate right now?
 
@@ -120,7 +120,7 @@ Use this scorecard before you pick a launch date. Select one answer per question
 
 **Why This Matters**: Distributed visibility reduces dependence on one channel and cushions ranking dips. No amplifier plan makes your launch fragile to timing noise.
 
-## Category 2: Asset Quality (Raw Max 20 | Weighted Max 18)
+## Category 2: Asset Quality (Raw Max 20 | Weighted Max 20)
 
 ### Q9. Does your thumbnail meet animation and file-size constraints while remaining legible?
 
@@ -234,7 +234,7 @@ Use this scorecard before you pick a launch date. Select one answer per question
 
 **Why This Matters**: Small display issues can erase the benefit of strong copy and design. Cross-device QA protects your conversion path during peak traffic windows.
 
-## Category 3: Network Activation (Raw Max 20 | Weighted Max 18)
+## Category 3: Network Activation (Raw Max 20 | Weighted Max 20)
 
 ### Q17. What is the current status of your hunter plan?
 
@@ -348,7 +348,7 @@ Use this scorecard before you pick a launch date. Select one answer per question
 
 **Why This Matters**: Clear ownership prevents decision stalls during ranking swings. Ambiguity burns critical minutes when timing matters most.
 
-## Category 4: Timing & Positioning (Raw Max 20 | Weighted Max 15)
+## Category 4: Timing & Positioning (Raw Max 20 | Weighted Max 20)
 
 ### Q25. How thoroughly have you reviewed competitive launch density for your target date?
 
@@ -462,7 +462,7 @@ Use this scorecard before you pick a launch date. Select one answer per question
 
 **Why This Matters**: Strong offer design can convert curiosity into activation quickly. Poorly structured offers create confusion and lost conversions.
 
-## Category 5: Retention Infrastructure (Raw Max 15 | Weighted Max 25)
+## Category 5: Retention Infrastructure (Raw Max 15 | Weighted Max 15)
 
 ### Q33. What is your measured time-to-value for a new user from signup to first meaningful outcome?
 
@@ -581,17 +581,18 @@ Use this scorecard before you pick a launch date. Select one answer per question
 Use raw category totals from the 40 questions, then compute the weighted score below.
 
 Weighted formula:
-1. Audience Infrastructure: `(raw score / 25) x 24`
-2. Asset Quality: `(raw score / 20) x 18`
-3. Network Activation: `(raw score / 20) x 18`
-4. Timing & Positioning: `(raw score / 20) x 15`
-5. Retention Infrastructure: `(raw score / 15) x 25`
+1. Audience Infrastructure: `(raw score / 25) x 25`
+2. Asset Quality: `(raw score / 20) x 20`
+3. Network Activation: `(raw score / 20) x 20`
+4. Timing & Positioning: `(raw score / 20) x 20`
+5. Retention Infrastructure: `(raw score / 15) x 15`
 
 Rounded weighted total = your final score out of 100.
 
 Why this weighting changed:
-- Retention Infrastructure now carries the largest weight because launch economics are decided by activation and paid conversion after the traffic spike.
-- Timing weight is reduced to avoid over-indexing on leaderboard variance and under-indexing on conversion fundamentals.
+- Audience Infrastructure now carries the largest weight because launch-day ranking sensitivity is highest in the first hours, and early attention depth is the hardest lever to improvise late.
+- The middle three categories remain balanced because page quality, activation execution, and positioning each influence conversion during different points in the same 24-hour window.
+- Retention Infrastructure remains meaningful but lower because this scorecard is a pre-launch readiness diagnostic, not a post-launch lifecycle audit.
 
 ## Score Tier: Not Ready - Revenue Risk
 **Range**: 0-49
@@ -599,11 +600,9 @@ Why this weighting changed:
 
 **What This Means**: Launching now can create activity without durable business outcomes. The most likely pattern is shallow engagement, weak activation, and unclear post-launch ownership.
 
-**Required Next Actions**:
-1. Delay launch by 2-4 weeks.
-2. Assign owners for Module 5 roles (Revenue, Lifecycle, Support, Analyst).
-3. Fill `revenue_command_center.csv` with a 7-day baseline before choosing a new date.
-4. Do not relaunch until weighted score reaches at least 70.
+**Your Highest-Risk Gap**: Your lowest-scoring category is likely below 40% of its raw maximum, which creates a measurable choke point in the first 6 hours (audience), first click-through session (assets), or first conversion window (activation/retention).
+
+**Your Next Action**: Delay launch by 2-4 weeks and run a repair sprint on the single lowest category until it reaches at least 60% of raw max, with named owners and date-bound deliverables.
 
 ## Score Tier: Caution - Launchable with Revenue Gaps
 **Range**: 50-69
@@ -611,10 +610,9 @@ Why this weighting changed:
 
 **What This Means**: You may achieve visibility, but conversion quality remains fragile. This range often indicates one strong area and one structural gap that drags paid outcomes.
 
-**Required Next Actions**:
-1. Run a 7-10 day repair sprint focused on the lowest category plus one adjacent category.
-2. Launch the Day 0/1/3/7 sequence from `activation_sequence_templates.md`.
-3. Pre-assign one rescue protocol from `playbook_v3.2.md` before launch day.
+**Your Highest-Risk Gap**: One category is usually under 50% of raw max, which can negate gains from stronger categories and produce visible drop-off between Product Hunt traffic and activation metrics.
+
+**Your Next Action**: Run a 7-10 day sprint on the lowest category plus one adjacent dependency, then re-score before launch and require both categories to clear 60% raw max.
 
 ## Score Tier: Ready - Execute Revenue SOP
 **Range**: 70-84
@@ -622,10 +620,9 @@ Why this weighting changed:
 
 **What This Means**: Core launch readiness is in place. Main upside now comes from disciplined execution and rapid correction when activation or paid conversion lags.
 
-**Required Next Actions**:
-1. Keep launch date.
-2. Complete a 72-hour hardening pass for onboarding, checkout, and tracking events.
-3. Run Module 5 SOP daily through Day 7 with command center updates.
+**Your Highest-Risk Gap**: Your lowest category is usually in the 55-70% range, which is strong enough to launch but still likely to leak performance if it is left unmanaged during the first 24 hours.
+
+**Your Next Action**: Keep launch date, complete a 72-hour hardening pass for the lowest-scoring category, and pre-assign one contingency trigger tied to a specific metric threshold.
 
 ## Score Tier: Strong - Compound Gains
 **Range**: 85-100
@@ -633,10 +630,14 @@ Why this weighting changed:
 
 **What This Means**: You have balanced readiness with strong retention infrastructure. The remaining risk is operational drift, not missing strategy.
 
-**Required Next Actions**:
-1. Keep launch date and execute full owner handoffs for Day 0-Day 7.
-2. Run at least one offer or lifecycle experiment by Day 7.
-3. Publish a Day 30 recap focused on activation, paid conversion, and channel quality.
+**Your Highest-Risk Gap**: Even in this range, one category is usually the relative floor; if its score is under 80% of raw max, it can still cap upside and reduce Top 3 probability.
+
+**Your Next Action**: Keep launch date and run a final-48-hour optimization pass on the single lowest category using prewritten owners, timing, and QA checklists.
+
+**Top 3 Push**:
+1. Finalize and schedule a 24-hour engagement roster with named owners and 2-hour response SLAs across comments and DMs.
+2. Re-test onboarding plus checkout on desktop and mobile, then patch any blocker that adds more than 15 seconds to first value.
+3. Send a personalized reminder wave to your top 30 confirmed supporters with exact launch time, comment angle, and share link.
 
 ## Revenue Readiness Output (Required)
 
@@ -668,14 +669,20 @@ When this category is weak, the launch usually suffers from silent leakage. You 
 ### Network Activation
 Network Activation measures your ability to coordinate people and channels over the full launch day, not just the opening post. It includes hunter strategy, outreach personalization, DM segmentation, community readiness, response coverage, and clear decision ownership. This category predicts whether momentum compounds or fades after the first spike. High-scoring launches have a written schedule with owners, pre-drafted responses for common questions, and enough coverage to keep engagement quality high even when the founder is overloaded. In practice, strong activation plans create a stable rhythm of comments, shares, and follow-up interactions that protects ranking through midday and late-day volatility.
 
-Low scores here often show up as an uneven launch graph: initial excitement, then long quiet periods, delayed replies, and avoidable confusion about who should do what. Even with good assets, weak activation can flatten your reach because there is no sustained system behind the launch. The corrective path is operational, not abstract. Build segmented contact lists, personalize asks, schedule channel touchpoints by timezone, assign owners for each block of the day, and establish escalation rules before launch. Treat this category like production incident readiness: when the board moves quickly, clarity and speed matter more than perfect prose.
+Low scores here often show up as an uneven launch graph: initial excitement, then long quiet periods, delayed replies, and avoidable confusion about who should do what. Even with good assets, weak activation can flatten your reach because there is no sustained system behind the launch. The corrective path is operational, not abstract. Build segmented contact lists, personalize asks, schedule channel touchpoints by timezone, assign owners for each block of the day, and establish escalation rules before launch. Treat this category like incident readiness: when the board moves quickly, clarity and speed matter more than perfect prose.
+
+A practical benchmark is coverage density: if fewer than two owners are active across each 4-hour block, response latency usually increases and comment quality declines by late day. Another benchmark is personalization depth: if less than 70% of your outreach list has recipient-specific context, response rates usually flatten after the initial wave. Launch-day consequence is measurable: longer median reply times, fewer second-order shares, and lower conversion from comments to site visits. To raise this category quickly, lock one command channel, define a single decision owner with fallback, and run a 60-minute rehearsal that stress-tests DM sends, comment response speed, and escalation handoffs before launch day.
 
 ### Timing & Positioning
 Timing & Positioning measures whether you are launching on the right day with a message that fits current community priorities. It combines calendar analysis, category selection, competitor intelligence, why-now clarity, and contingency planning. This category predicts relevance and comparability: will visitors understand why this product matters now, and why it is meaningfully different from alternatives? High-scoring teams choose timing deliberately, can explain category fit with evidence, and have prepared responses for unexpected competitive pressure. They avoid launching into crowded windows blindly and reduce mismatch between who sees the product and who benefits from it.
 
 A weak score in this category often causes hidden friction even if distribution and assets are strong. You might attract the wrong audience, appear generic next to similar launches, or miss the best windows for your user base. Launch-day consequences include lower conversion from comparable traffic levels and faster ranking decay when stronger-positioned products compete. Improvements are measurable: analyze recent boards, benchmark competitor launches, test your one-sentence why-now statement with target users, and create at least one contingency play for heavy competition. Timing and positioning do not replace product quality, but they determine whether quality is interpreted quickly in a crowded context.
 
+Use concrete thresholds to judge readiness. If your why-now statement cannot be repeated accurately by at least 8 of 10 target testers, positioning risk is still high. If category choice is based on intuition without competitor benchmarking from the last 6 weeks, traffic relevance risk is high. If you lack a contingency trigger for a crowded board, operational risk is high. Each of these risks has direct launch-day impact: weaker CTR from feed impressions, lower comment intent quality, and reduced recovery when rankings move quickly. To improve this category, write a one-page timing brief with chosen date, rejected dates, top three competing launches in your window, and a fallback message pack you can deploy within 15 minutes.
+
 ### Retention Infrastructure
 Retention Infrastructure measures whether your product and follow-up systems can capture long-term value from launch-day attention. It covers time-to-value, lifecycle email readiness, offer-code reliability, end-to-end flow testing, support coverage, event tracking, and short-cycle retention experimentation. This category predicts whether launch success translates into usage and revenue instead of a one-day spike. High-scoring teams can onboard users quickly, observe where drop-off happens, respond to blockers in real time, and run immediate improvements for the launch cohort. They treat launch day as acquisition plus activation, not acquisition alone.
 
-Low scores here create the most expensive failure mode: strong visibility with weak business outcomes. You may celebrate ranking while missing trial activation, paid conversion, or day-7 retention targets. The launch-day consequence is often delayed, appearing in the week after launch when cohort quality becomes clear. The fix is tactical: tighten onboarding to first value in under a minute, test checkout and code flows close to launch, prepare a seven-day email lifecycle, instrument activation events, and assign owners for feedback triage. This category now has the highest weighted influence because it determines whether launch effort compounds into durable traction.
+Low scores here create the most expensive failure mode: strong visibility with weak business outcomes. You may celebrate ranking while missing trial activation, paid conversion, or day-7 retention targets. The launch-day consequence is often delayed, appearing in the week after launch when cohort quality becomes clear. The fix is tactical: tighten onboarding to first value in under a minute, test checkout and code flows close to launch, prepare a seven-day email lifecycle, instrument activation events, and assign owners for feedback triage.
+
+Measure this category with operating metrics instead of assumptions. If median time-to-value is above 90 seconds for new users, first-session abandonment risk is high. If fewer than four lifecycle emails are scheduled with event-based triggers, day-2 to day-7 recovery is weak. If checkout and offer-code paths have not been tested end-to-end within 48 hours, conversion reliability is uncertain. These gaps are fixable before launch: run two full-device QA passes, define one activation KPI and one paid conversion KPI, and set daily cohort reviews for the first seven days with explicit owners. Retention is weighted lower than Audience Infrastructure in this pre-launch model, but it still determines whether launch attention produces measurable business gains after day one.

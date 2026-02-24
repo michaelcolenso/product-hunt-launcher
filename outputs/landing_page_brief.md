@@ -3,10 +3,10 @@
 ## Hero Section
 
 **Primary headline**
-Turn Product Hunt attention into activation and paid revenue in 30 days.
+Know if your Product Hunt launch is actually ready before you go live.
 
 **Subheadline**
-A revenue-first launch operating system: diagnose readiness, execute launch-day operations, and run a Day 0-30 conversion sprint with trackers, templates, and rescue protocols.
+Start with a weighted readiness diagnostic that shows your highest-risk gaps, then use the teardown and playbook to fix them with a clear operating sequence.
 
 **Specific fear this addresses**
 Technical founders fear a launch that ranks decently but fails to convert into paid traction, leaving them with vanity metrics and no repeatable growth system.

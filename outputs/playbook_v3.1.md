@@ -339,18 +339,18 @@ Move from passive reactions to active dialogue. Better comments improve credibil
 ### Scenario C: A similar competitor launched the same day and is outranking you.
 
 Diagnosis:
-You are likely being compared side by side and losing on message clarity, timing concentration, or proof quality. Competing head-to-head requires sharper positioning, not louder posting.
+You are being evaluated in a compressed side-by-side comparison, and your launch narrative is likely less specific at first glance. When two similar products appear on the board, visitors decide quickly based on who the product is for, what workflow it improves, and what proof appears first. If your listing, maker comment, and outreach messages are not tightly aligned, attention fragments and the competitor captures the cleaner story. This is usually a positioning-and-evidence problem more than a pure traffic problem.
 
 Priority actions:
-1. Rewrite your next public update around your distinct user segment and unique workflow outcome. Avoid naming the competitor directly.
-2. Bring proof forward: highlight one validated usage metric, customer quote, or concrete integration advantage.
-3. Redirect outreach to the audience segment where your fit is strongest instead of broadcasting broadly.
-4. Prioritize comments that clarify differentiation. Every answer should connect to who gets the most value from your product.
+1. Re-anchor your message to one explicit user segment and one concrete job-to-be-done. Update your next public post and maker comment replies with the same phrasing so differentiation is repeated, not improvised.
+2. Move proof above claims. Publish one short evidence bundle: a usage result, a customer quote, and one implementation detail that demonstrates why your workflow is materially different.
+3. Re-segment outreach immediately. Prioritize contacts who match your strongest-fit audience and ask for feedback tied to that specific use case, rather than broad visibility asks.
+4. Run differentiation-first comment operations. For each new question, explain who benefits most, where your approach is stronger, and where your product is not the best fit yet.
 
 Execution target:
-Win the right comparison for the right audience. Even if ranking remains close, better-fit traffic leads to stronger activation and post-launch revenue outcomes.
+Within the next 2-3 hours, increase clarity-weighted engagement: more comments that reference your specific use case, higher click-to-signup quality, and fewer generic reactions. You may not overtake immediately, but you should improve fit quality and downstream activation.
 
-<!-- EDITOR'S NOTE: Added required rescue protocol with diagnosis-first structure and priority-ordered responses for likely failure scenarios. -->
+<!-- EDITOR'S NOTE: Expanded Scenario C to 150-200 words with diagnosis depth and priority-ordered differentiation actions. -->
 
 ---
 
@@ -391,15 +391,15 @@ In launches we've documented, teams that responded quickly to onboarding frictio
 
 ## Appendix A: How to Research Your Hunter in 20 Minutes
 
-Start by finding active hunters whose recent hunts overlap with your product category and buyer profile. Use Product Hunt search, the daily leaderboard, and category pages to identify candidates who publish consistently. Prioritize hunters with visible engagement quality, not just volume. Open each candidate's last 10 hunts and review three things: average comment depth, product relevance to your audience, and whether the maker-hunter collaboration appears active (for example, timely maker comments and thoughtful hunter framing).
+Use a strict 20-minute workflow so hunter selection is based on evidence rather than brand recognition. Minute 0-5: build a candidate pool from Product Hunt category pages, the daily leaderboard, and search results for products adjacent to yours. Keep only hunters with visible recent activity. Ignore vanity signals at this stage; your objective is to find operators who are currently active and relevant.
 
-Next, score fit by alignment rather than status. Ask: does this hunter repeatedly back products for your exact user type? Do their hunted products share your pricing model or onboarding complexity? If you are launching a workflow tool for technical teams, a hunter who mostly posts consumer apps is likely a weak match. Keep a simple fit rubric: category match, audience match, engagement quality, and consistency.
+Minute 5-12: evaluate fit by reviewing each candidate's last 10 hunts. For every hunt, log four quick checks: category overlap, target user overlap, launch complexity overlap, and engagement quality. Category overlap asks whether they repeatedly hunt products in your market. User overlap asks whether those products serve the same buyer profile you serve. Complexity overlap asks whether they typically back products with similar onboarding depth, pricing friction, and implementation effort. Engagement quality asks whether comments show real product discussion instead of one-line reactions.
 
-Then assess response likelihood. Signals that a hunter may reply include recent activity, direct interaction with makers, and clear public contact paths. Look for hunters who still comment on hunted products within days of launch; dormant profiles are low probability even if historically strong.
+Minute 12-16: score response likelihood. Favor hunters who have interacted with makers recently, leave thoughtful comments on hunt pages, and maintain a clear outreach path (email, X DMs, or linked contact form). De-prioritize dormant profiles, even if they were influential in the past. A smaller list of active hunters is more useful than a larger list of unreachable names.
 
-Finally, craft an outreach message based on their real work. Reference one recent hunt and explain exactly why your product fits that pattern. Keep it short, specific, and easy to evaluate in under 30 seconds. Include one demo link and one sentence describing the outcome your product delivers. Your objective is not persuasion theater. Your objective is a fast, credible fit check.
+Minute 16-20: draft one outreach message per top candidate using proof of fit from your review. Reference one specific recent hunt and state why your product matches their demonstrated interests. Keep the message easy to scan: one sentence on user segment, one sentence on outcome, one demo link, and one clear ask for fit feedback. Do not use template flattery or manufactured urgency. The method is simple: relevance evidence first, concise context second, and a low-friction next step. If you cannot explain fit in two sentences, keep researching before sending.
 
-<!-- EDITOR'S NOTE: Replaced placeholder hunter database with a concrete methodology that users can execute immediately without fabricated data. -->
+<!-- EDITOR'S NOTE: Expanded Appendix A into a 20-minute, step-timed hunter research methodology focused on fit and response likelihood. -->
 
 ## Appendix B: 48-Hour Asset Hardening Checklist
 
@@ -436,9 +436,11 @@ Question 1: Did comment velocity decline in the last 60 minutes?
 - If yes, run a comment-first recovery: reply to all open threads, ask one follow-up question in each, and send a targeted message to five trusted users who can add context-rich comments.
 - If no, move to Question 2.
 
-Question 2: Did visitor volume drop by more than 20% versus your previous 2-hour baseline?
+Question 2: Is visitor volume showing a sustained, noticeable decline versus your previous 2-hour baseline across two checks?
 - If yes, trigger distribution recovery: publish one concise update with a concrete user outcome and send a second-wave outreach batch segmented by timezone.
 - If no, move to Question 3.
+
+<!-- EDITOR'S NOTE: Reframed Decision Tree 1 Question 2 from a fixed percentage trigger to an uncertainty-aware sustained-decline check. -->
 
 Question 3: Is signup conversion stable while ranking drops?
 - If yes, prioritize conversion and retention tasks while maintaining launch cadence. You may still finish with strong business outcomes.

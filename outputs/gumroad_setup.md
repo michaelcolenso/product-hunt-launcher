@@ -37,14 +37,11 @@ Subject: Your launch-to-revenue system is ready
 
 Thanks for your purchase.
 
-Start with `start_here.md` and complete the 30-minute first-value flow in this order:
-1) run `scorecard.md`,
-2) fill your baseline in `revenue_command_center.csv`,
-3) start Module 5 in `playbook_v3.2.md`.
+Start with `START HERE` first (`start_here.md`) before opening anything else. It gives the required order so you do not waste time: Scorecard first, Teardown second, Playbook third as reference. After that, use `revenue_command_center.csv` and `launch_cohort_tracker.csv` to set your baseline and track movement through activation and paid conversion.
 
-Then use `launch_cohort_tracker.csv` to monitor who activates, trials, and converts, and use `activation_sequence_templates.md` to run your Day 0/1/3/7 follow-up.
+This system is designed to improve decision quality and execution discipline across Day 0-30. It does not promise rank outcomes, but it will give you a concrete way to diagnose risk, prioritize fixes, and run launch follow-through with measurable checkpoints.
 
-Your practical objective is measurable movement in activation and paid conversion, not just launch-day visibility.
+If you only do one thing today, complete the Scorecard from start to finish.
 
 ## Affiliate Program
 Yes - 25%
